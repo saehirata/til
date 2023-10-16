@@ -7,5 +7,5 @@
 * Java　媒体：ドットインストール
 * JavaScript　媒体：ドットインストール
 
-＜ほかに学びたいもの＞
-Python、PHP
+＜今後学んでいきたいもの＞
+Python、PHP、React
